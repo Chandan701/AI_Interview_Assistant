@@ -24,6 +24,6 @@ role=st.selectbox("Select Job Role",[
   "Python Developer",
   "Java Developer",
   "Machine Learning Engineer",
-  "Software Engineer',
+  "Software Engineer",
   "HR Executive"
 ])
